@@ -125,15 +125,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+/* Combined SEO, ORM, and SMM img classes */
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
