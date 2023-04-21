@@ -6,6 +6,7 @@ This wepage's code was debugged and restructured in order to make the page more 
 
 ## Resources
 [Deployed site](https://zoeedge16.github.io/code-refactor-seo/)
+
 [Repository](https://github.com/zoeedge16/code-refactor-seo)
 
 ## Screenshot
