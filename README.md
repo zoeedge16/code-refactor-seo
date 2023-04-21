@@ -10,4 +10,4 @@ This wepage's code was debugged and restructured in order to make the page more 
 
 ## Screenshot
 
-![screenshot](./assets/images/Horiseon-SEO-Serach-Engine-Optimization.png)
+![screenshot](./Users/zoemedge/Desktop/bootcamp/challenges/code-refactor-seo/assets/images/Horiseon-SEO-Search-Engine-Optimization.png)
