@@ -1,14 +1,9 @@
-# code-refactor-seo
+# HORISEON SEO Refactor Challenge
 
 ## Description
 
 This wepage's code was debugged and restructured in order to make the page more accessbile. This webpage was built in order to build my skills with using HTML and CSS. The issues within the code were solved by fixing the link for the search engine optimization link. The challenge allowed for the coder to grasp a better understanding of how to find breaks within a code, debug it, reorgnaize a CSS spreadsheet to make it easier to understand.
-
-## Installation
-
-This webpage requires a index.html and a CSS spreadsheet. It also requires a github repository and the connection of teh repository to VS code terminal. 
-
-
+<!-- delted the installation section -->
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
