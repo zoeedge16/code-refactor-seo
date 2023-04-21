@@ -131,16 +131,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Combined SEO, ORM, AND SMM h2 classes */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
